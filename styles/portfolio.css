@@ -81,17 +81,39 @@ nav ul{
 .banner-content{
     max-width: 580px;
 }
+
 .banner-greetings{
     font-size: 45px;
     font-weight: 600;
+    margin-bottom: 5px;
 }
 
 .banner-title{
+    margin-top: 5px;
     font-weight: bold;
     font-size: 85px;
+    margin-bottom: 20px;
 }
 
 .banner-image{
     width: 580px;
 }
+
+.banner-description{
+    margin-bottom: 30px;
+}
+
+#contact{
+    color: #FD6E0A;
+    background-color: white;
+    border: 1px solid #FD6E0A;
+    margin-left: 20px;
+}
+.fas{
+    padding-right: 1.5px;
+    font-size: 18px;
+}
+
+
+
 
